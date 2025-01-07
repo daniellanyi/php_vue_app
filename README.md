@@ -16,14 +16,17 @@ The project contains a Vue SPA frontend and a PHP API backend with a MySQL datab
 - **Well-organized and structured code** for ease of understanding and future development.
 
 ## Installation
+
 Navigate to the backend folder and run composer install.
 Navigate to the frontend folder and run npm install.
 To configure the backend go into the config folder and find the _db.php and _mailer.php where i have left a few empty values to replace with the desired configuration.
 
 ## Nginx configuration
+
 I left some placeholders starting with '###' to makr out what to configure. The port numbers don't really matter either and they can be replaced with whatever may be suitable. 
 
-Production
+### Production
+
 server {
         listen       80;
         server_name  ###The name of your server;
@@ -59,8 +62,10 @@ server {
     }
 }
 
-Development
+### Development
+
 For development we want to proxy the Vue development server to be able to use fast reloading.
+
 server {
         listen       80;
         server_name  ###The name of your server;

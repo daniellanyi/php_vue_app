@@ -62,11 +62,13 @@ server {
        
     }
 }
+```
 
 ### Development
 
 For development we want to proxy the Vue development server to be able to use fast reloading.
 
+```
 server {
         listen       80;
         server_name  ###The name of your server;

@@ -1,0 +1,21 @@
+{
+    "name" : "daniellanyi/exam-api-php",
+    "description": "API for an exam app project",
+    "version": "1",
+    "authors": [
+        {
+            "name": "Daniel",
+            "email": "daniel.lanyi22@gmail.com"
+        }
+
+    ],
+    "autoload": {
+        "psr-4": {
+            "Framework\\": "Framework/",
+            "App\\": "App/"
+        }
+    },
+    "require": {
+        "phpmailer/phpmailer": "^6.9"
+    }
+}

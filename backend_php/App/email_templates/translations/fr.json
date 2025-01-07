@@ -1,0 +1,6 @@
+{
+    "email_verification_prompt": "Complétez votre inscription",
+    "email_verification_title": "Vérification de l'email",
+    "email_verification_instruction": "Veuillez utiliser le code de vérification suivant pour compléter votre inscription :",
+    "email_verification_ignore": "Si vous n'avez pas demandé ce code, vous pouvez ignorer cet e-mail."
+}

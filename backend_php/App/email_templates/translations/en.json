@@ -1,0 +1,6 @@
+{
+    "email_verification_prompt": "Complete your registration",
+    "email_verification_title": "Email Verification",
+    "email_verification_instruction": "Please use the following verification code to complete your registration:",
+    "email_verification_ignore": "If you didn't request this code, you can ignore this email."
+}

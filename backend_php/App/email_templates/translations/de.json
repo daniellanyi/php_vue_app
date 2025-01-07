@@ -1,0 +1,6 @@
+{
+    "email_verification_prompt": "Vervollständigen Sie Ihre Registrierung",
+    "email_verification_title": "E-Mail-Verifizierung",
+    "email_verification_instruction": "Bitte verwenden Sie den folgenden Verifizierungscode, um Ihre Registrierung abzuschließen:",
+    "email_verification_ignore": "Wenn Sie diesen Code nicht angefordert haben, können Sie diese E-Mail ignorieren."
+}

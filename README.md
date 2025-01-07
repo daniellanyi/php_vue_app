@@ -27,7 +27,8 @@ I left some placeholders starting with '###' to makr out what to configure. The 
 
 ### Production
 
-```server {
+```
+server {
         listen       80;
         server_name  ###The name of your server;
         set $my_root   ###root to PHP backend public folder;
@@ -100,4 +101,5 @@ server {
             root   html;
         }
     }
-}```
+}
+```

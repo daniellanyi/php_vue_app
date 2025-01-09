@@ -1,6 +1,6 @@
 {
-    "name" : "daniellanyi/exam-api-php",
-    "description": "API for an exam app project",
+    "name" : "daniellanyi/php-api",
+    "description": "API for a Vue app project",
     "version": "1",
     "authors": [
         {

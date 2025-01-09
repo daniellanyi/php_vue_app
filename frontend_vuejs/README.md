@@ -1,4 +1,4 @@
-# exam_app
+# frontend_vuejs
 
 ## Project setup
 ```
